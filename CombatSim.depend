@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1389709539 source:f:\learningc\combatsim\main.cpp
+	<iostream>
+	<string>
+	<Hero.h>
+	<Mob.h>
+	<Combat.h>
+
+1389658563 f:\learningc\combatsim\\hero.h
+
+1389654444 f:\learningc\combatsim\\mob.h
+
+1389709539 source:c:\users\haganj2\desktop\combatsim\main.cpp
+	<iostream>
+	<string>
+	<Hero.h>
+	<Mob.h>
+	<Combat.h>
+
+1389703221 source:c:\users\haganj2\desktop\combatsim\hero.cpp
+	<Hero.h>
+
+1389658563 c:\users\haganj2\desktop\combatsim\\hero.h
+
+1389654444 c:\users\haganj2\desktop\combatsim\\mob.h
+
+1389656023 c:\users\haganj2\desktop\combatsim\\combat.h
+	<Hero.h>
+	<Mob.h>
+	<cstdlib>
+	<ctime>
+
+1389703221 source:c:\users\haganj2\desktop\combatsim\mob.cpp
+	<Mob.h>
+
+1389703221 source:f:\learningc\combatsim\hero.cpp
+	<Hero.h>
+
+1389703221 source:f:\learningc\combatsim\mob.cpp
+	<Mob.h>
+
+1389656023 f:\learningc\combatsim\\combat.h
+	<Hero.h>
+	<Mob.h>
+	<cstdlib>
+	<ctime>
+
+1389709608 source:f:\learningc\combatsim\combat.cpp
+	<Combat.h>
+	<iostream>
+
+1389709088 source:c:\users\haganj2\desktop\combatsim\combat.cpp
+	<Combat.h>
+	<iostream>
+
