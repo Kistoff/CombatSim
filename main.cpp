@@ -49,6 +49,7 @@ int main()
                 std::cout << ":::::::::::::" << std::endl;
                 std::cout << "Weapon: " << std::endl;
                 std::cout << "Armor: " << std::endl;
+                std::cout << "Accessory: " << std::endl;
                 break;
             }
             case 3:

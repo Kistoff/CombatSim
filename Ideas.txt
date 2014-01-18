@@ -1,0 +1,6 @@
+Race Class -- decides what race the user wants to be, and starting stats.
+
+dwarf/elf/human starting race classes -- hold stats and possible racial abilities.
+
+Redo the main menu, add options for creating the hero, option for store for items.
+
