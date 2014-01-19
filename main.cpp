@@ -3,6 +3,7 @@
 #include <Hero.h>
 #include <Mob.h>
 #include <Combat.h>
+#include <Race.h>
 
 
 int main()
@@ -16,6 +17,7 @@ int main()
     Hero PC;
     Mob NPC;
     Combat combat;
+    Race race;
 
     std::cout << "Please enter your Hero's name: ";
     std::cin >> heroName;
@@ -29,6 +31,7 @@ int main()
         std::cout << "2: Check Inventory" << std::endl;
         std::cout << "3: Check Attributes" << std::endl;
         std::cout << "4: Exit" << std::endl;
+        std::cout << "5: Race" << std::endl;
         std::cout << "Please enter a Number to continue: ";
         std::cin >> choice;
         switch(choice)
@@ -75,6 +78,10 @@ int main()
                 std::cout << "Exiting Game" << std::endl;
                 playing = false;
             }
+            case 5:
+                {
+                    race.getRace();
+                }
         }
     }
 

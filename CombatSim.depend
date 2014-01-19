@@ -53,3 +53,37 @@
 	<Combat.h>
 	<iostream>
 
+1390087550 source:c:\users\peter parker\documents\github\combatsim\combat.cpp
+	<Combat.h>
+	<iostream>
+
+1390087550 c:\users\peter parker\documents\github\combatsim\combat.h
+	<Hero.h>
+	<Mob.h>
+	<cstdlib>
+	<ctime>
+
+1390087550 c:\users\peter parker\documents\github\combatsim\hero.h
+
+1390087550 c:\users\peter parker\documents\github\combatsim\mob.h
+
+1390087550 source:c:\users\peter parker\documents\github\combatsim\hero.cpp
+	<Hero.h>
+
+1390090071 source:c:\users\peter parker\documents\github\combatsim\main.cpp
+	<iostream>
+	<string>
+	<Hero.h>
+	<Mob.h>
+	<Combat.h>
+	<Race.h>
+
+1390087550 source:c:\users\peter parker\documents\github\combatsim\mob.cpp
+	<Mob.h>
+
+1390087880 c:\users\peter parker\documents\github\combatsim\race.h
+
+1390090861 source:c:\users\peter parker\documents\github\combatsim\race.cpp
+	<Race.h>
+	<iostream>
+

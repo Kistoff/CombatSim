@@ -15,6 +15,7 @@
 					<Add option="-g" />
 					<Add directory="F:/LearningC/CombatSim/" />
 					<Add directory="C:/Users/haganj2/Desktop/CombatSim/" />
+					<Add directory="C:/Users/Peter Parker/Documents/GitHub/CombatSim" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -40,6 +41,8 @@
 		<Unit filename="Hero.h" />
 		<Unit filename="Mob.cpp" />
 		<Unit filename="Mob.h" />
+		<Unit filename="Race.cpp" />
+		<Unit filename="Race.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
